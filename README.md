@@ -1,0 +1,2 @@
+# midugifa_jokogana
+みづぎはよこがな
